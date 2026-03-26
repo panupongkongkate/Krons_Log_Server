@@ -2,6 +2,9 @@
 bin/
 obj/
 Storage/
+tests-swagger/node_modules/
+tests-swagger/playwright-report/
+tests-swagger/test-results/
 *.user
 *.suo
 *.userosscache
